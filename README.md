@@ -24,6 +24,9 @@ The exercises are ordered to reflect a common cloud developer's experience:
 
 Architecture diagram
 
+![TRIVIA](https://codelabs.developers.google.com/codelabs/cloud-deploy-website-on-gke/img/ddba666bd2b02d0d.png)
+
+
 What you'll learn
 
     How to create a GKE cluster
@@ -43,7 +46,7 @@ Self-paced environment setup
 
 If you don't already have a Google Account, then you must create one. Sign into Google Cloud Console and create a new project.
 
-...
+
 
 
 ## Setup
