@@ -24,6 +24,22 @@ The exercises are ordered to reflect a common cloud developer's experience:
 
 Architecture diagram
 
+What you'll learn
+
+    How to create a GKE cluster
+    How to create a Docker image
+    How to deploy Docker images to Kubernetes
+    How to scale an application on Kubernetes
+    How to perform a rolling update on Kubernetes
+
+Prerequisites
+
+    A Google Account with administrative access to create projects or a project with a project-owner role
+    A basic understanding of Docker and Kubernetes (If you lack a basic understanding, then please review Docker and Kubernetes now.)
+
+
+
+
 ## Setup
 
 ```
