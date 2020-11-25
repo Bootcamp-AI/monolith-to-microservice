@@ -38,6 +38,8 @@ Prerequisites
     A basic understanding of Docker and Kubernetes (If you lack a basic understanding, then please review Docker and Kubernetes now.)
 
 
+## 2. Environment setup
+.....
 
 
 ## Setup
