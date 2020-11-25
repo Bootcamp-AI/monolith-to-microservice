@@ -39,7 +39,11 @@ Prerequisites
 
 
 ## 2. Environment setup
-.....
+Self-paced environment setup
+
+If you don't already have a Google Account, then you must create one. Sign into Google Cloud Console and create a new project.
+
+...
 
 
 ## Setup
